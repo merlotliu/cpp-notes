@@ -3,15 +3,10 @@ layout: post
 title: 获取当前时间
 date: 2023-01-10 12:28:54
 updated: 2023-01-10 12:28:54
-tags: 
-- [cpp]
-categories: 
-- [cpp]
-permalinks: ~
+tags: [cpp]
+categories: [cpp]
 comments: true
 ---
-
-# 获取当前时间
 
 ## 函数 & 宏
 

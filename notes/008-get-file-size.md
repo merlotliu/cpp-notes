@@ -1,17 +1,12 @@
 ---
 layout: post
 title: 获取文件大小
-date: 2023-01-10 12:28:54
-updated: 2023-01-10 12:28:54
-tags: 
-- [cpp]
-categories: 
-- [cpp]
-permalinks: ~
+date: 2023-01-10 12:28:54 +0800
+updated: 2023-01-10 12:28:54 +0800
+tags: [cpp]
+categories: [cpp]
 comments: true
 ---
-
-# 获取文件大小
 
 ## 函数 & 宏
 

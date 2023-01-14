@@ -3,15 +3,10 @@ layout: post
 title: 判断文件是否为空
 date: 2023-01-09 15:57:13
 updated: 2023-01-09 15:57:13
-tags: 
-- [cpp]
-categories: 
-- [cpp]
-permalinks: ~
+tags: [cpp]
+categories: [cpp]
 comments: true
 ---
-
-# 判断文件是否为空
 
 ## 函数 & 宏
 
